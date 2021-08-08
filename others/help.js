@@ -60,8 +60,8 @@ module.exports = {
 
 
 **|** **Links**
-[Support](https://discord.gg/progresshome)
-[Invite](https://discord.com/api/oauth2/authorize?client_id=807350534901071932&permissions=8&scope=bot)
+[Support](https://discord.gg/xs4FA8jc32)
+[Invite](https://discord.com/api/oauth2/authorize?client_id=874039654003924992&permissions=8&scope=bot)
 `)
    .setFooter(`${message.author.username}#${message.author.discriminator}`, message.member.user.displayAvatarURL({ dynamic: true }))
    .setColor("RANDOM");
